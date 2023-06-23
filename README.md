@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying on **Java and Backend**
 
-- 👨‍💻 All of my projects are available at ["Working on it"]("Working on it")
+- 👨‍💻 All of my projects are available at **Working on it**
 
 - 📫 How to reach me **alanmesquita.contato@gmail.com**
 
