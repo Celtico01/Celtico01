@@ -2,7 +2,7 @@
 <h1 align="center">Oi 👋, Me chamo Alan</h1>
 <h3 align="center">Um universitario em Ciências da Computação e eu gosto de desenvolvimento backend</h3> 
 
-- 🔭 Eu estou atualmente estudando: **Java and Backend**
+- 🔭 Eu estou atualmente estudando: **Java e Backend**
 
 - 📫 Como me encontrar: **alanmesquita.contato@gmail.com**
 
