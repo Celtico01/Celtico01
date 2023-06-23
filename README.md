@@ -17,7 +17,7 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A student of Computer Science in college and I really like backend development</h3>
 
-- 🔭 I’m currently Studying on **Java and Backend**
+- 🔭 I’m currently Studying **Java and Backend**
 
 - 📫 How to reach me **alanmesquita.contato@gmail.com**
 
